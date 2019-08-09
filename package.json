@@ -1,0 +1,29 @@
+{
+  "name": "react-native-log-panel",
+  "title": "React Native Log Panel",
+  "version": "1.0.1",
+  "description": "React Native显示类似微信小程序调试面板的日志界面，可以始终悬浮于app顶层",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijian0103/react-native-log-panel.git",
+    "baseUrl": "https://github.com/lijian0103/react-native-log-panel"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "lijian",
+    "email": "lijian0103@hotmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.5.1",
+    "react-native": ">=0.57.2"
+  }
+}
