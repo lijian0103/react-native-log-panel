@@ -1,7 +1,7 @@
 {
   "name": "react-native-log-panel",
   "title": "React Native Log Panel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native显示类似微信小程序调试面板的日志界面，可以始终悬浮于app顶层",
   "main": "index.js",
   "scripts": {
