@@ -29,5 +29,5 @@ constructor(props) {
 this.logHolder.switchLog(newState);
 ```
 ### 效果
-![图片1](https://upload-images.jianshu.io/upload_images/3596857-098e45297b69c290.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![图片1](https://upload-images.jianshu.io/upload_images/3596857-4a08082c66e43759.gif?imageMogr2/auto-orient/strip)
 ![图片2](https://upload-images.jianshu.io/upload_images/3596857-b09041feec10f5ca.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
